@@ -1,5 +1,5 @@
 public class X {
-
-    private double schwartzchildRad;
+    
+    private static int devilfenix;
 
 }
